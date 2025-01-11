@@ -62,8 +62,7 @@ An enterprise-grade **sales data processing pipeline**:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/annwesha-mondal/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" width="40" />
   </a>
   </a>
   </a>
