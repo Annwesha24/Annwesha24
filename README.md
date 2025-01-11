@@ -3,7 +3,8 @@
 ###
 
 <h1 align="center">👋 Hello, I'm Annwesha</h1>
-<hr>
+
+###
 
 <p align="center">
 🌟 <b>Data Engineer</b> | 🔥 <b>Cloud Data Specialist</b> | 🚢 <b>Big Data Enthusiast</b> | 🧠 <b>Predictive Analytics Explorer</b>
