@@ -51,8 +51,16 @@ An enterprise-grade **sales data processing pipeline**:
 
 ---
 
+### 🌟 My Vision
+
+Empowering individuals and organizations to unlock the full potential of their data by blending engineering excellence with compelling visual storytelling.
+
+---
+
 ## 🔗 Let's Connect!  
 
+<b>Feel free to reach out — let’s create something impactful together!</b>
+E-Mail : annwesha.mondal99@gmail.com
 <p align="center">
   <a href="https://www.linkedin.com/in/annwesha-mondal/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
@@ -66,7 +74,7 @@ An enterprise-grade **sales data processing pipeline**:
   <a href="https://www.instagram.com/_a.n.n.w.e.s.h.a_/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30">
   </a><br><br>
-  <b>Feel free to reach out — let’s create something impactful together!</b>
+  
 </p>
 
 ---
