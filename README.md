@@ -1,12 +1,12 @@
 <h1 align="center">🚀 Welcome to My GitHub! 🚀</h1>
 
----
+###
 
-<h1 align="center">👋 Hello, I'm Annwesha</h>
+<h1 align="center">👋 Hello, I'm Annwesha</h1>
 <hr>
 
-<p align="center">
-🌟 <b>Data Engineer</b> | 🔥 <b>Cloud Data Specialist</b> | 🚢 <b>Big Data Enthusiast</b> | 🧠 <b>Predictive Analytics Explorer</b>
+<p align="center"><h3>
+🌟 <b>Data Engineer</b> | 🔥 <b>Cloud Data Specialist</b> | 🚢 <b>Big Data Enthusiast</b> | 🧠 <b>Predictive Analytics Explorer</b></h3.>
 </p>
 
 ---
