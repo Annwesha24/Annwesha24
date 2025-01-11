@@ -65,7 +65,7 @@ An enterprise-grade **sales data processing pipeline**:
   </a>&nbsp;
   <a href="https://www.instagram.com/_a.n.n.w.e.s.h.a_/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30">
-  </a>
+  </a><br>
   <b>Feel free to reach out — let’s create something impactful together!</b>
 </p>
 
