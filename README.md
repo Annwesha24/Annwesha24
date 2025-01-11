@@ -62,7 +62,7 @@ An enterprise-grade **sales data processing pipeline**:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/annwesha-mondal/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
   </a>
   </a>
   </a>
