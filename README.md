@@ -61,18 +61,15 @@ Empowering individuals and organizations to unlock the full potential of their d
 
 <b>Feel free to reach out — let’s create something impactful together!</b><br>
 📧 E-Mail : annwesha.mondal99@gmail.com
-<p align="center">
+<p align>
   <a href="https://www.linkedin.com/in/annwesha-mondal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Annwesha24" target="_blank">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub" width='30'>
-  </a>&nbsp;&nbsp;
-  <a href="annwesha.mondal99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub" width='40'>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/_a.n.n.w.e.s.h.a_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40">
   </a><br><br>
   
 </p>
