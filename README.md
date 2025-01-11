@@ -53,7 +53,7 @@ An enterprise-grade **sales data processing pipeline**:
 
 ## 🔗 Let's Connect!  
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/annwesha-mondal/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
   </a>&nbsp;
