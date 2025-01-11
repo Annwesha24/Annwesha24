@@ -4,7 +4,7 @@
 ###
 
 <p align="center">
-🌟 <b>Data Engineer</b> | 🔥 <b>Cloud Data Specialist</b> | 🚢 <b>Big Data Enthusiast</b> | 🧠 <b>Predictive Analysis Explorer</b>
+🌟 <b>Data Engineer</b> | 🔥 <b>Cloud Data Specialist</b> | 🚢 <b>Big Data Explorer</b> | 🧠 <b>AI Enthusiast</b>
 </p>
 
 ---
@@ -66,6 +66,7 @@ An enterprise-grade **sales data processing pipeline**:
   <a href="https://www.instagram.com/_a.n.n.w.e.s.h.a_/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30">
   </a>
+  <b>Feel free to reach out — let’s create something impactful together!</b>
 </p>
 
 ---
