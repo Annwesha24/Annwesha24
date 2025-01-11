@@ -41,12 +41,11 @@ An enterprise-grade **sales data processing pipeline**:
 ### 🔧 Tools & Technologies  
 
 ● Programming: Python, Java, SQL, Linux, Data Structures<br>
-● Data Engineering: Spark, Kafka, Data Warehouse, Databricks, ETL Pipelines, Data warehousing, Information Management, Data Integration, Big Data<br>
-● Cloud Technologies: Microsoft Azure (Data Factory, Databricks, Synapse Analytics)<br>
-● CI/CD and DevOps: Jenkins, GitHub, CI/CD Pipelines, Azure DevOps, Terraform<br>
-● Database Management: SQL Server, MySQL, PostgreSQL<br>
+● Data Engineering: Spark, Kafka, Databricks, ETL Pipelines, Data Integration, Big Data<br>
+● Cloud Technologies: Azure, AWS<br>
+● CI/CD and DevOps: Jenkins, GitHub, CI/CD Pipelines, Azure DevOps<br>
 ● Data Visualization: Power BI<br>
-● Web Development: HTML, CSS, Javascript, React, Angular<br>
+● Web Development: HTML, CSS, Javascript, Angular<br>
 ● Machine Learning & AI: Model Deployment, Data Analysis, Data Modeling<br>
 ● Orchestration: Airflow, Kubernetes
 
