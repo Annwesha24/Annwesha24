@@ -16,7 +16,7 @@ I specialize in designing and implementing robust, scalable **data pipelines** a
 
 ---
 
-### 🔨 Currently Working On:
+### 🔨 Currently Working On
 - **Open Source Contributions and Projects**  
 - **Data Engineering** with a focus on **real-time streaming** and **Azure Cloud**  
 - **DevOps Practices** for seamless CI/CD workflows  
